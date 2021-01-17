@@ -1,4 +1,4 @@
-## OCVID-Net Open Initiative
+## COVID-Net Open Initiative
 
 You can use the [editor on GitHub](https://github.com/AlexSWong/COVID-Net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
