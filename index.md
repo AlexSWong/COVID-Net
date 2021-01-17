@@ -9,7 +9,7 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark datasets:  [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
   - Paper: [Click here](https://www.nature.com/articles/s41598-020-76550-z)
-  
+  <br>
   
 - **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: (https://github.com/haydengunraj/COVIDNet-CT)
   - Models: [Click here](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)
