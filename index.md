@@ -21,14 +21,16 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   - Paper: [Click here](https://arxiv.org/abs/2005.12855)
- 
- 
-- **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: (https://github.com/darwinai/covidnet_ui)
 
+- **COVID-Net P: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: (https://github.com/lindawangg/COVID-Net)
+  - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
+  - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
 
 - **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: (https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
+
+- **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: (https://github.com/darwinai/covidnet_ui)
 
 
 ## Core COVID-Net Team
@@ -43,13 +45,13 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
   * Maya Pavlova
   * Naomi Terhljan
   * Siddharth Surana
-  * Hayden Gunraj, [COVID-Net for CT](https://github.com/haydengunraj/COVIDNet-CT)
-  * Jeffer Peng, [COVIDNet UI](https://github.com/darwinai/covidnet_ui)
+  * Hayden Gunraj
+  * Jeffer Peng
+  * James Lee 
 * Vision and Image Processing Research Group, University of Waterloo, Canada
-  * James Lee
   * Hossein Aboutalebi
   * Alex MacLean
   * Saad Abbasi
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
 * Kim-Ann Git (Selayang Hospital)
-* Abdul Al-Haimi, [COVID-19 ShuffleNet Chest X-Ray Model](https://github.com/aalhaimi/covid-net-cxr-shuffle)
+* Abdul Al-Haimi
