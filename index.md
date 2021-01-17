@@ -10,23 +10,29 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
   - Benchmark datasets:  [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
   - Paper: [Click here](https://www.nature.com/articles/s41598-020-76550-z)
   
+  
 - **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: (https://github.com/haydengunraj/COVIDNet-CT)
   - Models: [Click here](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)
   - Benchmark datasets: [Click here](https://www.kaggle.com/hgunraj/covidxct)
   - Paper: [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full)
+ 
  
 - **COVID-Net S: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: (https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   - Paper: [Click here](https://arxiv.org/abs/2005.12855)
  
+ 
 - **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: (https://github.com/darwinai/covidnet_ui)
+
 
 - **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: (https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
 
+
 ## Core COVID-Net Team
+
 * DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
   * Linda Wang
   * Alexander Wong
