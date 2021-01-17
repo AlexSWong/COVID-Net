@@ -5,14 +5,26 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
 ### Updates
 
 ### COVID-Net Resources
-- **COVID-Net CXR: COVID-19 detection using chest x-rays** https://github.com/lindawangg/COVID-Net
+- **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** https://github.com/lindawangg/COVID-Net
   - Models: https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md
   - Benchmark datasets:  https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md
   - Paper: https://www.nature.com/articles/s41598-020-76550-z
-- **COVID-Net CT**: https://github.com/haydengunraj/COVIDNet-CT
-- **COVID-Net S**: https://github.com/lindawangg/COVID-Net
-- **COVID-Net GUI**: https://github.com/darwinai/covidnet_ui
-- **Cancer-Net SCa**: https://github.com/jamesrenhoulee/CancerNet-SCa
+  
+- **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: https://github.com/haydengunraj/COVIDNet-CT
+  - Models: https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md
+  - Benchmark datasets: https://www.kaggle.com/hgunraj/covidxct
+  - Paper: https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full
+ 
+- **COVID-Net S: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: https://github.com/lindawangg/COVID-Net
+  - Models: https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md
+  - Benchmark dataset: https://github.com/lindawangg/COVID-Net/tree/master/annotations
+  - Paper: https://arxiv.org/abs/2005.12855
+ 
+- **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: https://github.com/darwinai/covidnet_ui
+
+- **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: https://github.com/jamesrenhoulee/CancerNet-SCa
+  - Models: https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md
+  - Paper: https://arxiv.org/abs/2011.10702
 
 ## Core COVID-Net Team
 * DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
