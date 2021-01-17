@@ -40,7 +40,7 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
 
 ## Core COVID-Net Team
 
-Primary Contact: Alexander Wong (a28wong@uwaterloo.ca)
+Project Lead: Alexander Wong (a28wong@uwaterloo.ca)
 
 * DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
   * Linda Wang
