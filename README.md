@@ -40,6 +40,7 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
   <br>
 - **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: (https://github.com/darwinai/covidnet_ui)
+	- Software: [Click here](https://github.com/darwinai/covidnet_ui)
   <br>
 
 ## Core COVID-Net Team
