@@ -11,15 +11,13 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
 <p align="center">
 <iframe width="800" height="500" frameborder="0" scrolling="yes" 
   marginheight="0" marginwidth="0" title="2019-nCoV" 
-  src="//arcgis.com/apps/Embed/index.html?webmap=14aa9e5660cf42b5b4b546dec6ceec7c&zoom=true&previewImage=true&scale=true&disable_scroll=false&theme=light"
+  src="https://ourworldindata.org/grapher/total-cases-covid-19?tab=map"
 ></iframe>
 
 <br>
 -------
-Courtesy Johns Hopkins University
+Courtesy Our World in Data
 </p>
-
-<iframe src="https://ourworldindata.org/grapher/total-cases-covid-19?tab=map" width="100%" height="600px"></iframe>
 
 ### Benchmark Dataset Status:
 - Chest x-rays: **14,611** CXR images across **14,194** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
