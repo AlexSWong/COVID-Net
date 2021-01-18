@@ -9,7 +9,7 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
 
 ### Updates
 <p align="center">
-<iframe width="800" height="600" frameborder="0" scrolling="yes" 
+<iframe width="800" height="500" frameborder="0" scrolling="yes" 
   marginheight="0" marginwidth="0" title="2019-nCoV" 
   src="//arcgis.com/apps/Embed/index.html?webmap=14aa9e5660cf42b5b4b546dec6ceec7c&zoom=true&previewImage=true&scale=true&disable_scroll=false&theme=light"
 ></iframe>
