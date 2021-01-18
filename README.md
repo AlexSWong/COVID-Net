@@ -11,7 +11,7 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
 
 ### Benchmark Dataset Status:
 - **Chest x-rays:** 14,611 CXR images across 14,194 patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
-- **Chest CT:** 155,191 CT slices from 3,792 patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
+- **Chest CT:** 201,103 CT slices from 4,501 patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
 
 ### COVID-Net Resources
 - **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** (https://github.com/lindawangg/COVID-Net)
