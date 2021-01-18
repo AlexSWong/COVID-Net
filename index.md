@@ -19,6 +19,8 @@ Launched in March in response to the coronavirus disease 2019 (COVID-19) pandemi
 Courtesy Johns Hopkins University
 </p>
 
+<iframe src="https://ourworldindata.org/grapher/total-cases-covid-19?tab=map" width="100%" height="600px"></iframe>
+
 ### Benchmark Dataset Status:
 - Chest x-rays: **14,611** CXR images across **14,194** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
 - Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
