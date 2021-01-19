@@ -27,12 +27,12 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Paper: [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full)
    <br>
  
-- **COVID-Net S: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: (https://github.com/lindawangg/COVID-Net)
+- **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: (https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   - Paper: [Click here](https://arxiv.org/abs/2005.12855)
   <br>
-- **COVID-Net P: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: (https://github.com/lindawangg/COVID-Net)
+- **COVID-Net Pneumonia: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: (https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   <br>
