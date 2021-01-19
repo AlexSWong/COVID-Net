@@ -55,7 +55,7 @@ Courtesy Our World in Data
 
 ## Core COVID-Net Team
 
-Project Lead: Alexander Wong (a28wong@uwaterloo.ca)
+Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uwaterloo.ca)
 
 * DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
   * Linda Wang
