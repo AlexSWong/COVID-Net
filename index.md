@@ -75,5 +75,6 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
   * Alex MacLean
   * Saad Abbasi
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
+* Ali Sabri (Niagara Health, McMaster University, Canada)
 * Kim-Ann Git (Selayang Hospital)
 * Abdul Al-Haimi
