@@ -9,8 +9,6 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 
 ### Updates
 
-- **January 23, 2021**: Major release of **COVID-Net CT-2**, built using new benchmark dataset with CT slices from at least 15 countries [(Paper)](https://www.kaggle.com/hgunraj/covidxct)[(Models)](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)[(Datasets)](https://www.kaggle.com/hgunraj/covidxct)
-
 <p align="center">
 <iframe width="800" height="500" frameborder="0" scrolling="yes" 
   marginheight="0" marginwidth="0" title="2019-nCoV" 
