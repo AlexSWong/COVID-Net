@@ -27,7 +27,8 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 	- Repo: [Click here](https://github.com/haydengunraj/COVIDNet-CT)
   - Models: [Click here](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)
   - Benchmark datasets: [Click here](https://www.kaggle.com/hgunraj/covidxct)
-  - Paper: [Click here for CT-1](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full) [Click here for CT-2](https://arxiv.org/pdf/2101.07433.pdf)
+  - Paper (CT-1): [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full) 
+  - Paper (CT-2): [Click here](https://arxiv.org/pdf/2101.07433.pdf)
    <br>
  
 - **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: 	
