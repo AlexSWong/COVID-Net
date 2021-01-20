@@ -37,7 +37,8 @@ Courtesy Our World in Data
 	- Repo: [Click here](https://github.com/haydengunraj/COVIDNet-CT)
   - Models: [Click here](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)
   - Benchmark datasets: [Click here](https://www.kaggle.com/hgunraj/covidxct)
-  - Paper: [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full)
+  - Paper (CT-1): [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full) 
+  - Paper (CT-2): [Click here](https://arxiv.org/pdf/2101.07433.pdf)
    <br>
  
 - **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: 	
