@@ -16,33 +16,38 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 - Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
 
 ### COVID-Net Resources
-- **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** [Main repo](https://github.com/lindawangg/COVID-Net)
+- **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** 
+	- Repo: [Click here](https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark datasets:  [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
   - Paper: [Click here](https://www.nature.com/articles/s41598-020-76550-z)
   <br>
   
-- **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: [Main repo](https://github.com/haydengunraj/COVIDNet-CT)
+- **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: 
+	- Repo: [Click here](https://github.com/haydengunraj/COVIDNet-CT)
   - Models: [Click here](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)
   - Benchmark datasets: [Click here](https://www.kaggle.com/hgunraj/covidxct)
   - Paper: [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full)
    <br>
  
-- **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: [Main repo](https://github.com/lindawangg/COVID-Net)
+- **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: 	
+	- Repo: [Click here](https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   - Paper: [Click here](https://arxiv.org/abs/2005.12855)
   <br>
-- **COVID-Net Pneumonia: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: [Main repo](https://github.com/lindawangg/COVID-Net)
+- **COVID-Net Pneumonia: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: 
+	- Repo: [Click here](https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   <br>
-- **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: [Main repo](https://github.com/jamesrenhoulee/CancerNet-SCa)
+- **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
+	- Repo: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
   <br>
 - **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: [Main repo](https://github.com/darwinai/covidnet_ui)
-	- Software: [Click here](https://github.com/darwinai/covidnet_ui)
+	- Repo: [Click here](https://github.com/darwinai/covidnet_ui)
   <br>
 
 ## Core COVID-Net Team
