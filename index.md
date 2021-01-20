@@ -41,13 +41,13 @@ Courtesy Our World in Data
    <br>
  
 - **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: 	
-	- Repo: [Click here](https://github.com/lindawangg/COVID-Net)
+	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   - Paper: [Click here](https://arxiv.org/abs/2005.12855)
   <br>
 - **COVID-Net Pneumonia: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: 
-	- Repo: [Click here](https://github.com/lindawangg/COVID-Net)
+	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   <br>
@@ -56,7 +56,7 @@ Courtesy Our World in Data
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
   <br>
-- **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: [Main repo](https://github.com/darwinai/covidnet_ui)
+- **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: 
 	- Repo: [Click here](https://github.com/darwinai/covidnet_ui)
   <br>
 
