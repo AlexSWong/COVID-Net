@@ -12,7 +12,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 - **January 19, 2021**: Major release of **Cancer-Net SCa**, tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images [(Paper)](https://arxiv.org/abs/2011.10702)[(Models)](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
 
 ### Benchmark Dataset Status:
-- Chest x-rays: **15,411** CXR images across **15,195** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
+- Chest x-rays: **15,664** CXR images across **15,351** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
 - Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
 
 ### COVID-Net Resources
