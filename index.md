@@ -23,7 +23,7 @@ Courtesy Our World in Data
 </p>
 
 ### Benchmark Dataset Status:
-- Chest x-rays: **15,411** CXR images across **15,195** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
+- Chest x-rays: **15,664** CXR images across **15,351** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
 - Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
 
 ### COVID-Net Resources
