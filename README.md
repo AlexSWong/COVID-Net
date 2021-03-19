@@ -16,7 +16,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 - Chest x-rays: **15,664** CXR images across **15,351** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
 - Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
 - Chest point-of-care ultrasound: **10,774** POCUS images [Click here](https://github.com/nrc-cnrc/COVID-US)
-- 
+
 ### COVID-Net Resources
 - **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** 
 	- Repo: [Click here](https://github.com/lindawangg/COVID-Net)
