@@ -24,7 +24,7 @@ Courtesy Our World in Data
 </p>
 
 ### Benchmark Dataset Status:
-- Chest x-rays: **15,664** CXR images across **15,351** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
+- Chest x-rays: **16,352** CXR images across **14,979** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
 - Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
 - Chest point-of-care ultrasound: **10,774** POCUS images [Click here](https://github.com/nrc-cnrc/COVID-US)
 
