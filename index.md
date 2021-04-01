@@ -26,7 +26,7 @@ Courtesy Our World in Data
 ### Benchmark Dataset Status:
 - Chest x-rays: **16,352** CXR images across **14,979** patients [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
 - Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
-- Chest point-of-care ultrasound: **10,774** POCUS images [Click here](https://github.com/nrc-cnrc/COVID-US)
+- Chest point-of-care ultrasound: **11,307** POCUS images [Click here](https://github.com/nrc-cnrc/COVID-US)
 
 ### COVID-Net Resources
 - **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** 
