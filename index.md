@@ -8,6 +8,7 @@
 Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pandemic, COVID-Net is a global open source, open access initiative dedicated to accelerating advancement in machine learning to aid front-line healthcare workers and clinical institutions around the world fighting the continuing pandemic.  Towards this goal, our global multi-disciplinary team of researchers, developers, and clinicians have made publicly available a suite of tailored deep neural network models for tackling different challenges ranging from screening to risk stratification to treatment planning for patients with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).  Furthermore, we have made available fully curated, open access benchmark datasets comprised of some of the largest, most diverse patient cohorts from around the world.  We hope the open-source, open-access release of COVID-Net deep learning models and associated large-scale benchmark datasets will motivate and enable researchers, clinicians, and citizen data scientists alike from around the world to build upon them and accelerate progress in this field.  We continue to regularly release new models and benchmark datasets to keep up with the dynamic nature of the evolving pandemic, and have since expanded the initiative with the open source Cancer-Net initiative.
 
 ### Updates
+- **April 2, 2021**: Major release of **COVID-Net Clinical ICU**, a tailored neural network for ICU admission prediction based on patient clinical data [(Model)](https://github.com/darwinai/covidnet_clinical_ICU)
 - **March 19, 2021**: Major release of **COVIDx US**, a new benchmark dataset of 10,774 processed point-of-care ultrasound (POCUS) images of patients infected with SARS-CoV-2 pneumonia, non-SARS-CoV-2 pneumonia, as well as healthy control cases.  [(Paper)](https://arxiv.org/abs/2103.10003)[(Datasets)](https://github.com/nrc-cnrc/COVID-US)
 - **January 26, 2021**: Major release of **COVID-Net CT-2**, built using new benchmark dataset with CT slices from at least 15 countries [(Paper)](https://arxiv.org/pdf/2101.07433.pdf)[(Models)](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)[(Datasets)](https://www.kaggle.com/hgunraj/covidxct)
 - **January 19, 2021**: Major release of **Cancer-Net SCa**, tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images [(Paper)](https://arxiv.org/abs/2011.10702)[(Models)](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
@@ -61,7 +62,10 @@ Courtesy Our World in Data
   - Benchmark dataset: [Click here](https://github.com/nrc-cnrc/COVID-US)
   - Paper: [Click here](https://arxiv.org/abs/2103.10003)
   <br>
-  
+- **COVID-Net Clinical ICU: tailored neural network for ICU admission prediction based on patient clinical data**: 
+	- Repo: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
+  - Model: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
+  <br>
 - **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
 	- Repo: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
