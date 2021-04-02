@@ -50,7 +50,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Benchmark dataset: [Click here](https://github.com/nrc-cnrc/COVID-US)
   - Paper: [Click here](https://arxiv.org/abs/2103.10003)
   <br>
-  - **COVID-Net Clinical ICU: tailored neural network for ICU admission prediction based on patient clinical data**: 
+- **COVID-Net Clinical ICU: tailored neural network for ICU admission prediction based on patient clinical data**: 
 	- Repo: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   - Model: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   <br>
