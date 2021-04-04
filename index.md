@@ -66,6 +66,10 @@ Courtesy Our World in Data
 	- Repo: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   - Model: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   <br>
+- **TB-Net: tailored deep convolutional neural networks for detection of tuberculosis cases from chest X-ray images**: 
+	- Repo: [Click here](https://github.com/darwinai/TuberculosisNet)
+  - Model: [Click here](https://github.com/darwinai/TuberculosisNet/blob/main/docs/models.md)
+  <br>    
 - **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
 	- Repo: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
