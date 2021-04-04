@@ -45,10 +45,6 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   <br>
-- **TB-Net: tailored deep convolutional neural networks for detection of tuberculosis cases from chest X-ray images**: 
-	- Repo: [Click here](https://github.com/darwinai/TuberculosisNet)
-  - Model: [Click here](https://github.com/darwinai/TuberculosisNet/blob/main/docs/models.md)
-  <br>  
 - **COVIDx US: benchmark dataset for detection of COVID-19 cases from chest point-of-care ultrasound images**: 
 	- Repo: [Click here](https://github.com/nrc-cnrc/COVID-US)
   - Benchmark dataset: [Click here](https://github.com/nrc-cnrc/COVID-US)
@@ -58,7 +54,10 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 	- Repo: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   - Model: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   <br>
-  
+- **TB-Net: tailored deep convolutional neural networks for detection of tuberculosis cases from chest X-ray images**: 
+	- Repo: [Click here](https://github.com/darwinai/TuberculosisNet)
+  - Model: [Click here](https://github.com/darwinai/TuberculosisNet/blob/main/docs/models.md)
+  <br>    
 - **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
 	- Repo: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
