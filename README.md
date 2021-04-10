@@ -30,7 +30,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Paper: [Click here](https://www.nature.com/articles/s41598-020-76550-z)
   <br>
   
-- **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: 
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: 
 	- Repo: [Click here](https://github.com/haydengunraj/COVIDNet-CT)
   - Models: [Click here](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)
   - Benchmark datasets: [Click here](https://www.kaggle.com/hgunraj/covidxct)
@@ -38,37 +38,37 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Paper (CT-2): [Click here](https://arxiv.org/pdf/2101.07433.pdf)
    <br>
  
-- **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: 	
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: 	
 	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   - Paper: [Click here](https://arxiv.org/abs/2005.12855)
   <br>
-- **COVID-Net Pneumonia: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: 
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net Pneumonia: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: 
 	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
   <br>
-- **COVIDx US: benchmark dataset for detection of COVID-19 cases from chest point-of-care ultrasound images**: 
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVIDx US: benchmark dataset for detection of COVID-19 cases from chest point-of-care ultrasound images**: 
 	- Repo: [Click here](https://github.com/nrc-cnrc/COVID-US)
   - Benchmark dataset: [Click here](https://github.com/nrc-cnrc/COVID-US)
   - Paper: [Click here](https://arxiv.org/abs/2103.10003)
   <br>
-- **COVID-Net Clinical ICU: tailored neural network for ICU admission prediction based on patient clinical data**: 
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net Clinical ICU: tailored neural network for ICU admission prediction based on patient clinical data**: 
 	- Repo: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   - Model: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   <br>
-- **TB-Net: tailored deep convolutional neural networks for detection of tuberculosis cases from chest X-ray images**: 
+- <img src="https://github.com/darwinai/TuberculosisNet/raw/main/assets/tbnet_logo.png" alt="COVID-Net" width="4%" height="4%"> **TB-Net: tailored deep convolutional neural networks for detection of tuberculosis cases from chest X-ray images**: 
 	- Repo: [Click here](https://github.com/darwinai/TuberculosisNet)
   - Model: [Click here](https://github.com/darwinai/TuberculosisNet/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2104.03165)
   <br>    
-- **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
+- <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.pn" alt="COVID-Net" width="4%" height="4%"> **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
 	- Repo: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
   <br>
-- **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: 
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: 
 	- Repo: [Click here](https://github.com/darwinai/covidnet_ui)
   <br>
 
