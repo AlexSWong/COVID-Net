@@ -2,6 +2,7 @@
 	<img src="covidnetlogo.png" alt="COVID-Net" width="30%" height="30%">
 	<br>
 	<img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="Cancer-Net" width="10%" height="10%">
+	<img src="https://github.com/darwinai/TuberculosisNet/raw/main/assets/tbnet_logo.png" alt="TB-Net" width="10%" height="10%">
 	<br>
 </p>
 
