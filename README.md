@@ -63,7 +63,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Model: [Click here](https://github.com/darwinai/TuberculosisNet/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2104.03165)
   <br>    
-- <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.pn" alt="COVID-Net" width="4%" height="4%"> **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
+- <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="COVID-Net" width="4%" height="4%"> **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
 	- Repo: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
