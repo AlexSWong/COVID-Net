@@ -37,7 +37,11 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Paper (CT-1): [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full) 
   - Paper (CT-2): [Click here](https://arxiv.org/pdf/2101.07433.pdf)
    <br>
- 
+ - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CXR-S: tailored deep convolutional neural networks for airspace severity assessment from chest X-ray images**: 	
+	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_severity.md)
+  - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
+  - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_severity.md)
+  <br>
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: 	
 	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
@@ -93,6 +97,7 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
   * Hossein Aboutalebi
   * Alex MacLean
   * Saad Abbasi
+  * Andy Zhao
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
 * Ali Sabri (Niagara Health, McMaster University, Canada)
 * Amer Alaref (Thunder Bay Regional Health Sciences Centre, Northern Ontario School of Medicine, Canada)
