@@ -48,7 +48,11 @@ Courtesy Our World in Data
   - Paper (CT-1): [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full) 
   - Paper (CT-2): [Click here](https://arxiv.org/pdf/2101.07433.pdf)
    <br>
- 
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CXR-S: tailored deep convolutional neural networks for airspace severity assessment from chest X-ray images**: 	
+  - Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_severity.md)
+  - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
+  - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_severity.md)
+  <br> 
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net Severity: tailored deep convolutional neural networks for severity assessment from chest X-ray images**: 	
 	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
