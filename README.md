@@ -24,21 +24,20 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 
 ### Resources
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** 
-	- Repo: [Click here](https://github.com/lindawangg/COVID-Net)
+  - Repo: [Click here](https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark datasets:  [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
   - Paper: [Click here](https://www.nature.com/articles/s41598-020-76550-z)
   <br>
-  
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: 
-	- Repo: [Click here](https://github.com/haydengunraj/COVIDNet-CT)
+  - Repo: [Click here](https://github.com/haydengunraj/COVIDNet-CT)
   - Models: [Click here](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)
   - Benchmark datasets: [Click here](https://www.kaggle.com/hgunraj/covidxct)
   - Paper (CT-1): [Click here](https://www.frontiersin.org/articles/10.3389/fmed.2020.608525/full) 
   - Paper (CT-2): [Click here](https://arxiv.org/pdf/2101.07433.pdf)
    <br>
  - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CXR-S: tailored deep convolutional neural networks for airspace severity assessment from chest X-ray images**: 	
-	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_severity.md)
+  - Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_severity.md)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_severity.md)
   <br>
