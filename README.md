@@ -26,7 +26,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** 
   - Repo: [Click here](https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
-  - Benchmark datasets:  [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md)
+  - Benchmark datasets:  [Click here](https://www.kaggle.com/andyczhao/covidx-cxr2)
   - Paper: [Click here](https://www.nature.com/articles/s41598-020-76550-z)
   <br>
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CT: tailored deep convolutional neural networks for detection of COVID-19 cases from chest CT images**: 
