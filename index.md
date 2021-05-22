@@ -60,7 +60,7 @@ Courtesy Our World in Data
 	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
   - Benchmark dataset: [Click here](https://github.com/lindawangg/COVID-Net/tree/master/annotations)
-  - Paper: [Click here](https://arxiv.org/abs/2005.12855)
+  - Paper: [Click here](https://www.nature.com/articles/s41598-021-88538-4)
   <br>
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net Pneumonia: tailored deep convolutional neural networks for detection of pneumonia cases from chest X-ray images**: 
 	- Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_pneumonia.md)
