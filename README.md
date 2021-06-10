@@ -3,6 +3,7 @@
 	<br>
 	<img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="Cancer-Net" width="13%" height="13%">
 	<img src="https://github.com/darwinai/TuberculosisNet/raw/main/assets/tbnet_logo.png" alt="TB-Net" width="16%" height="16%">
+	<img src="https://github.com/darwinai/FibrosisNet/raw/main/assets/fibrosisnet_logo.png" alt="TB-Net" width="16%" height="16%">	
 	<br>
 </p>
 
