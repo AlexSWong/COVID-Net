@@ -45,7 +45,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net US: tailored deep convolutional neural network for detection of COVID-19 cases from chest point-of-care ultrasound images**: 	
   - Repo: [Click here](https://github.com/maclean-alexander/COVID-Net-US)
   - Models: [Click here](https://github.com/maclean-alexander/COVID-Net-US)
-  - Benchmark dataset: [https://github.com/nrc-cnrc/COVID-USt)
+  - Benchmark dataset: [Click here](https://github.com/nrc-cnrc/COVID-USt)
   <br>   
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CXR-S: tailored deep convolutional neural networks for airspace severity assessment from chest X-ray images**: 	
   - Repo: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/covidnet_severity.md)
