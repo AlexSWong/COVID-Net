@@ -25,17 +25,6 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 - **January 26, 2021**: Major release of **COVID-Net CT-2**, built using new benchmark dataset with CT slices from at least 15 countries [(Paper)](https://arxiv.org/pdf/2101.07433.pdf)[(Models)](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/models.md)[(Datasets)](https://www.kaggle.com/hgunraj/covidxct)
 - **January 19, 2021**: Major release of **Cancer-Net SCa**, tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images [(Paper)](https://arxiv.org/abs/2011.10702)[(Models)](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
 
-<p align="center">
-<iframe width="800" height="500" frameborder="0" scrolling="yes" 
-  marginheight="0" marginwidth="0" title="2019-nCoV" 
-  src="https://ourworldindata.org/grapher/total-cases-covid-19?tab=map"
-></iframe>
-
-<br>
--------
-Courtesy Our World in Data
-</p>
-
 ### Benchmark Dataset Status:
 - Chest x-rays: **30,882** CXR images across **17,036** patients [Click here](https://www.kaggle.com/andyczhao/covidx-cxr2)
 - Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
