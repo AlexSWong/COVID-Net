@@ -128,6 +128,7 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
   * Saad Abbasi
   * Andy Zhao
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
+* Adrian Florea (St. Mary's Hospital, McGill University, Canada)
 * Ali Sabri (Niagara Health, McMaster University, Canada)
 * Amer Alaref (Thunder Bay Regional Health Sciences Centre, Northern Ontario School of Medicine, Canada)
 * Kim-Ann Git (Selayang Hospital)
