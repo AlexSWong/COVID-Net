@@ -32,6 +32,9 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
 - Chest point-of-care ultrasound: **29,651** POCUS images [Click here](https://github.com/nrc-cnrc/COVID-US)
 
 ### Resources
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net GUI: AI-Powered Clinical Decision Support Platform for COVID-19**: 
+	- Repo: [Click here](https://github.com/darwinai/covidnet_ui)
+  <br>
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net CXR: tailored deep convolutional neural networks for detection of COVID-19 cases from chest X-ray images** 
   - Repo: [Click here](https://github.com/lindawangg/COVID-Net)
   - Models: [Click here](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
@@ -91,9 +94,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
   <br>
-- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net GUI: AI-Powered Clinical Decision Support Platform for COVID-19**: 
-	- Repo: [Click here](https://github.com/darwinai/covidnet_ui)
-  <br>
+
 
 ## Core COVID-Net Team
 
