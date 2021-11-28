@@ -12,6 +12,7 @@
 Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pandemic, COVID-Net is a global open source, open access initiative dedicated to accelerating advancement in machine learning to aid front-line healthcare workers and clinical institutions around the world fighting the continuing pandemic.  Towards this goal, our global multi-disciplinary team of researchers, developers, and clinicians have made publicly available a suite of tailored deep neural network models for tackling different challenges ranging from screening to risk stratification to treatment planning for patients with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).  Furthermore, we have made available fully curated, open access benchmark datasets comprised of some of the largest, most diverse patient cohorts from around the world.  We hope the open-source, open-access release of COVID-Net deep learning models and associated large-scale benchmark datasets will motivate and enable researchers, clinicians, and citizen data scientists alike from around the world to build upon them and accelerate progress in this field.  We continue to regularly release new models and benchmark datasets to keep up with the dynamic nature of the evolving pandemic, and have since expanded the initiative with the open source TB-Net initiative for tuberculosis screening, Fibrosis-Net initiative for pulmonary fibrosis progression prediction, and Cancer-Net initiative for cancer screening.
 
 ### Updates
+- **November 28, 2021**: Major release of **COVID-Net GUI**, a new AI-powered clinical decision support platform for COVID-19 [(Platform)](https://github.com/darwinai/covidnet_ui)
 - **November 23, 2021**: Major release of **COVIDx CXR-3**, a new benchmark dataset of 30,882 CXR images curated through a multinational cohort of 17,036 patient cases  from at least 51 countries [(Datasets)](https://www.kaggle.com/andyczhao/covidx-cxr2)
 - **October 19, 2021**: Major release of **COVID-Net CXR-3**, a tailored deep convolutional neural network for detection of COVID-19 cases from chest X-ray images using a multi-scale encoder-decoder self-attention (MEDUSA)  [(Paper)](https://arxiv.org/abs/2110.06063)[(Models)](https://github.com/lindawangg/COVID-Net/blob/master/docs/models.md)
 - **August 7, 2021**: Major release of **COVID-Net US**, a tailored deep convolutional neural network for detection of COVID-19 cases from point-of-care ultrasound (POCUS) images [(Models)](https://github.com/maclean-alexander/COVID-Net-US)[(Datasets)](https://github.com/nrc-cnrc/COVID-US)
@@ -90,7 +91,7 @@ Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pa
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
   <br>
-- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net GUI: graphic user interface front-end for COVID-Net models**: 
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net GUI: AI-Powered Clinical Decision Support Platform for COVID-19**: 
 	- Repo: [Click here](https://github.com/darwinai/covidnet_ui)
   <br>
 
