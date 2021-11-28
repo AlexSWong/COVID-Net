@@ -108,6 +108,7 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
   * Audrey Chung
   * Melissa Rinch
   * Maya Pavlova
+  * Hadi Rahmat-Khah
   * Naomi Terhljan
   * Hadi Rahmat-Khah
   * Siddharth Surana
