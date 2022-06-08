@@ -12,6 +12,7 @@
 Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pandemic, COVID-Net is a global open source, open access initiative dedicated to accelerating advancement in machine learning to aid front-line healthcare workers and clinical institutions around the world fighting the continuing pandemic.  Towards this goal, our global multi-disciplinary team of researchers, developers, and clinicians have made publicly available a suite of tailored deep neural network models for tackling different challenges ranging from screening to risk stratification to treatment planning for patients with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).  Furthermore, we have made available fully curated, open access benchmark datasets comprised of some of the largest, most diverse patient cohorts from around the world.  We hope the open-source, open-access release of COVID-Net deep learning models and associated large-scale benchmark datasets will motivate and enable researchers, clinicians, and citizen data scientists alike from around the world to build upon them and accelerate progress in this field.  We continue to regularly release new models and benchmark datasets to keep up with the dynamic nature of the evolving pandemic, and have since expanded the initiative with the open source TB-Net initiative for tuberculosis screening, Fibrosis-Net initiative for pulmonary fibrosis progression prediction, and Cancer-Net initiative for cancer screening.
 
 ### Updates
+- **June 8, 2022**: Major release of **COVIDx CT-3**, a new benchmark dataset of 431,205 CT images curated through a multinational cohort of 6,068 patient cases  from at least 51 countries [(Paper)](https://arxiv.org/abs/2103.10003)[(Datasets)](https://www.kaggle.com/datasets/hgunraj/covidxct)
 - **April 10, 2022**: Major release of **COVID-Net Biochem**, a collection of explainability-designed machine learning models for predicting
 survival and kidney injury of COVID-19 patients from clinical and biochemistry data [(Models)](https://github.com/h-aboutalebi/CovidBiochem)[(Datasets)](https://github.com/h-aboutalebi/CovidBiochem)
 - **November 28, 2021**: Major release of **COVID-Net UI**, a new AI-powered clinical decision support platform for COVID-19 [(Platform)](https://github.com/darwinai/covidnet_ui)
@@ -30,7 +31,7 @@ survival and kidney injury of COVID-19 patients from clinical and biochemistry d
 
 ### Benchmark Dataset Status:
 - Chest x-rays: **30,882** CXR images across **17,036** patients [Click here](https://www.kaggle.com/andyczhao/covidx-cxr2)
-- Chest CT: **201,103** CT slices from **4,501** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
+- Chest CT: **431,205** CT slices from **6,068** patients [Click here](https://www.kaggle.com/hgunraj/covidxct)
 - Chest point-of-care ultrasound: **29,651** POCUS images [Click here](https://github.com/nrc-cnrc/COVID-US)
 - Clinical and biochemisty data: **1336** records [Click here](https://github.com/h-aboutalebi/CovidBiochem) 
 
@@ -84,6 +85,10 @@ survival and kidney injury of COVID-19 patients from clinical and biochemistry d
   - Benchmark dataset: [Click here](https://github.com/nrc-cnrc/COVID-US)
   - Paper: [Click here](https://arxiv.org/abs/2103.10003)
   <br>
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVIDx CT-3: A Large-scale, Multinational, Open-Source Benchmark Dataset for Computer-aided COVID-19 Screening from Chest CT Images**: 
+  - Benchmark dataset: [Click here](https://www.kaggle.com/datasets/hgunraj/covidxct)
+  - Paper: [Click here](https://arxiv.org/abs/2206.03043)
+  <br>  
 - <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net Clinical ICU: tailored neural network for ICU admission prediction based on patient clinical data**: 
 	- Repo: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   - Model: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
