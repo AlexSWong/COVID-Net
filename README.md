@@ -131,6 +131,7 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
   * James Lee 
 * Vision and Image Processing Research Group, University of Waterloo, Canada
   * Hossein Aboutalebi
+  * Amy Tai
   * Alex MacLean
   * Saad Abbasi
   * Andy Zhao
