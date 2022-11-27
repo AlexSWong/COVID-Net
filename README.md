@@ -12,6 +12,7 @@
 Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pandemic, COVID-Net is a global open source, open access initiative dedicated to accelerating advancement in machine learning to aid front-line healthcare workers and clinical institutions around the world fighting the continuing pandemic.  Towards this goal, our global multi-disciplinary team of researchers, developers, and clinicians have made publicly available a suite of tailored deep neural network models for tackling different challenges ranging from screening to risk stratification to treatment planning for patients with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).  Furthermore, we have made available fully curated, open access benchmark datasets comprised of some of the largest, most diverse patient cohorts from around the world.  We hope the open-source, open-access release of COVID-Net deep learning models and associated large-scale benchmark datasets will motivate and enable researchers, clinicians, and citizen data scientists alike from around the world to build upon them and accelerate progress in this field.  We continue to regularly release new models and benchmark datasets to keep up with the dynamic nature of the evolving pandemic, and have since expanded the initiative with the open source TB-Net initiative for tuberculosis screening, Fibrosis-Net initiative for pulmonary fibrosis progression prediction, and Cancer-Net initiative for cancer screening.
 
 ### Updates
+- **November 26, 2022**: Major release of **COVID-Net Assistant**, a deep learning-driven virtual assistant for COVID-19 symptom prediction and recommendation [(Paper)](https://arxiv.org/abs/2211.11944)[(Models)](https://github.com/fshipy/COVIDNet-Assistant)
 - **November 26, 2022**: Major release of **Cancer-Net BCa**, a volumetric convolutional neural network to learn volumetric deep radiomic features for predicting the post-treatment response for breast cancer using synthetic correlated diffusion imaging, along with a new benchmark dataset of volumetric synthetic correlated diffusion imaging data from 253 patient cases [(Paper)](https://arxiv.org/abs/2211.05308)[(Models)](https://github.com/catai9/Cancer-Net-BCa)[(Datasets)](https://www.kaggle.com/datasets/amytai/cancernet-bca)
 - **June 8, 2022**: Major release of **COVIDx CT-3**, a new benchmark dataset of 431,205 CT images curated through a multinational cohort of 6,068 patient cases  from at least 51 countries [(Paper)](https://arxiv.org/abs/2206.03043)[(Datasets)](https://www.kaggle.com/datasets/hgunraj/covidxct)
 - **April 10, 2022**: Major release of **COVID-Net Biochem**, a collection of explainability-designed machine learning models for predicting
@@ -95,6 +96,11 @@ survival and kidney injury of COVID-19 patients from clinical and biochemistry d
 	- Repo: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   - Model: [Click here](https://github.com/darwinai/covidnet_clinical_ICU)
   <br>
+- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net Assistant: A Deep Learning-Driven Virtual Assistant for COVID-19 Symptom Prediction and Recommendation**: 
+	- Repo: [Click here](https://github.com/fshipy/COVIDNet-Assistant)
+  - Models: [Click here](https://github.com/fshipy/COVIDNet-Assistant)
+  - Paper: [Click here](https://arxiv.org/abs/2211.11944)  
+  <br>  
 - <img src="https://github.com/darwinai/TuberculosisNet/raw/main/assets/tbnet_logo.png" alt="COVID-Net" width="4%" height="4%"> **TB-Net: tailored deep convolutional neural networks for detection of tuberculosis cases from chest X-ray images**: 
 	- Repo: [Click here](https://github.com/darwinai/TuberculosisNet)
   - Model: [Click here](https://github.com/darwinai/TuberculosisNet/blob/main/docs/models.md)
