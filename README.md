@@ -5,6 +5,7 @@
 	<img src="https://github.com/darwinai/TuberculosisNet/raw/main/assets/tbnet_logo.png" alt="TB-Net" width="16%" height="16%">
 	<img src="https://github.com/darwinai/FibrosisNet/raw/main/assets/fibrosisnet_logo.png" alt="TB-Net" width="16%" height="16%">	
 	<br>
+	<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/genai.jpg" alt="genai4good" width="30%" height="30%">		
 </p>
 
 ## COVID-Net Open Initiative (Cancer-Net, TB-Net, Fibrosis-Net Initiatives)
